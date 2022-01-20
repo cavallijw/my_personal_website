@@ -1,0 +1,15 @@
+h1{
+    color: chartreuse;
+    background-color: blueviolet;
+}
+
+h1.page-title{
+    color: red;
+    font-size: 100px;
+}
+
+p{
+    color:blueviolet;
+    font-family: courier;
+    font-size: 300%
+}
